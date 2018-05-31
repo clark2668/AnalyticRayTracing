@@ -8,7 +8,7 @@ You will need to have a functioning installation of [GSL](https://www.gnu.org/so
 
 ## Getting Going
 Getting going is easy. Just:
-- Make it: `make`
+- Make it: `make analytic_raytracing`
 - Run it: `./analytic_raytracing`
 - The main is at the bottom of the code, which you can modify to your liking.
   - You can find if, and how many, solutions exist to the ray tracing problem.
