@@ -25,8 +25,6 @@ double z_0 = 71.; //meters
 double delta_n = 0.427;
 double speed_of_light = 299792458; //meters/second
 double pi = atan(1.)*4.; //compute and store pi
-//double inf = std::numeric_limits<double>::infinity();
-//double inf = std::numeric_limits<double>::max()-2;
 double inf = 1e130; //infinity for all practical purposes...
 
 double index_vs_depth(double z){
